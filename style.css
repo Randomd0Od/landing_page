@@ -1,12 +1,12 @@
-/* info */
+/* commons */
 
 * {
   font-family: 'Roboto', arial;
   margin: 0;
-  padding: 0;
-  background-color: white;
+  padding: 0;  
 }
 
+/* info */
 h2 {
   text-align: center;
   font-size: 36px;
@@ -34,7 +34,6 @@ h2 {
   padding: 4px;
 
   /*border: 1px solid red;*/
-
 }
 
 .card {
@@ -47,7 +46,6 @@ h2 {
   gap: 0px;
 
   /*border: 1px solid green;*/
-
 }
 
 .box {
@@ -55,6 +53,32 @@ h2 {
   border-radius: 16px;
   width: 160px;
   height: 160px;
-  gap: 16px;
-  
+  gap: 16px;  
+}
+
+/* quote */
+
+.quote-box {
+  display: flex;  
+  align-items: center;
+  justify-content: center;
+  height: 428px;
+  background-color: #e5e7eb;   
+}
+
+.quote p {
+  display: flex;
+  flex-direction: column;
+  width: 800px;  
+  font-size: 36px; 
+  font-weight: 100;
+  font-style: italic; 
+  padding: 30px;  
+}
+
+.quote div {
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 48px;  
+  text-align: right;
 }
