@@ -1,6 +1,5 @@
 
 # landing_page
- Exercise in using previously learned visual formats for a simple web page, via The Odin Project
 
 My second real assignment with The Odin Project (aka TOP).  This time a single page website displaying multiple flexbox stylings, such as:
 	
