@@ -82,3 +82,16 @@ h2 {
   margin-left: 48px;  
   text-align: right;
 }
+
+/* footer */
+
+.footer {
+  background-color: #1f2937;
+  color: #f9faf8;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px; 
+}
