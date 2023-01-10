@@ -25,25 +25,25 @@ a {
   background-color: #1f2937;
   color: #f9faf8;
   display: flex;
-  align-items: center;
+  align-items: center;  
   justify-content: space-between;
   
-  border: 1px solid red; 
+  /*border: 1px solid red; */
 }
 
 .logo {  
   font-size: 22px;
   font-weight: bold;
-  margin-left: 136px;
+  margin-left: 196px;
 
-  border: 1px solid yellow; 
+  /*border: 1px solid yellow; */
 }
 
 .links {
   font-size: 18px;  
-  margin-right: 144px;
+  margin-right: 72px;
 
-  border: 1px dashed yellow; 
+  /*border: 1px dashed yellow; */
 
 }
 
@@ -51,7 +51,7 @@ a {
 
 .awesome {
   display: flex;
-  height: 480px;
+  height: 464px;
   justify-content: center;
   align-items: center;
   background-color: #1f2937;
