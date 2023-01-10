@@ -28,7 +28,7 @@ a {
   align-items: center;
   justify-content: space-between;
   
-  /*border: 1px solid red; */
+  border: 1px solid red; 
 }
 
 .logo {  
@@ -36,15 +36,68 @@ a {
   font-weight: bold;
   margin-left: 136px;
 
-  /*border: 1px solid yellow; */
+  border: 1px solid yellow; 
 }
 
 .links {
   font-size: 18px;  
   margin-right: 144px;
 
-  /*border: 1px dashed yellow; */
+  border: 1px dashed yellow; 
 
+}
+
+/* awesome */
+
+.awesome {
+  display: flex;
+  height: 480px;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f2937;
+  color: #f9faf8;
+  
+  border: 1px dotted red;
+}
+
+.a-box {  
+  display: flex;
+  flex-direction: column;
+  height: 230px;
+  width: 450px;
+  margin: 24px;  
+
+  border: 2px dotted green;
+}
+
+.a-box h1 {
+  text-align: left;
+  font-size: 40px;
+  font-weight: 900;
+}
+
+.a-box p {
+  text-align: left;
+  font-size: 18px;
+}
+
+button {
+  background-color: #3882f6;
+  color: #f9faf8;
+  border-radius: 8px;
+  border: 1px solid #3882f6;
+  font-size: 18px;
+  font-weight: bolder;
+  width: 128px;
+  margin-top: 12px;
+  padding: 4px 24px;
+}
+
+img {
+  height: 230px;
+  width: 475px;  
+
+  border: 1px solid lightgreen;
 }
 
 /* info */
