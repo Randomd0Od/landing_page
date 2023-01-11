@@ -57,7 +57,7 @@ a {
   background-color: #1f2937;
   color: #f9faf8;
   
-  border: 1px dotted red;
+  /*border: 1px dotted red;*/
 }
 
 .a-box {  
@@ -67,7 +67,7 @@ a {
   width: 450px;
   margin: 24px;  
 
-  border: 2px dotted green;
+  /*border: 2px dotted green;*/
 }
 
 .a-box h1 {
@@ -97,7 +97,7 @@ img {
   height: 230px;
   width: 475px;  
 
-  border: 1px solid lightgreen;
+  /*border: 1px solid lightgreen;*/
 }
 
 /* info */
