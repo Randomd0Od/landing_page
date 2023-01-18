@@ -51,7 +51,7 @@ a {
 
 .links {
   font-size: 18px;  
-  margin-right: 72px;
+  margin-right: 144px;
 
   /*border: 1px dashed yellow; */
 
@@ -189,24 +189,26 @@ h2 {
   background-color: #f9faf8;
   height: 360px;
 
-  border: 1px solid green;  
+  /*border: 1px solid green;*/
 }
 
 .act-box {
   display: flex;
   height: 160px;
-  width: 1012px;
+  width: 936px;
   align-items: center;
   justify-content: space-evenly;
   color: #f9faf8;
   border: 1px solid #3882f6;
   border-radius: 12px;
-  background-color: #3882f6; 
+  background-color: #3882f6;
+  margin-left: 52px; 
 
-  border: 1px solid black;
+  /*border: 3px solid black;*/
 }
 
 .act-box h2 {
+  text-align: left;
   color: #f9faf8;
   margin: 0;
   padding: 0;
@@ -221,7 +223,7 @@ h2 {
   height: 64px;
   align-content: flex-start; 
 
-  border: 1px solid red;
+  /*border: 1px solid red;*/
 }
 
 /*
